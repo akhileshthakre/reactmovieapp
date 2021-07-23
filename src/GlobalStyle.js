@@ -19,6 +19,7 @@ export const GlobalStyle = createGlobalStyle`
   body {
     margin: 0;
     padding: 0;
+    background-color: #1c1c1c;
     
     h1 {
       font-size: 2rem;

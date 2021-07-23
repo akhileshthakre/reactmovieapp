@@ -20,7 +20,7 @@ const Home = () => {
 
     //console.log(state)
 
-    if(error) return <div>Somthing Went Wrong...</div>
+    if(error) return <div>Somthing Went Wrong.....</div>
 
     return (
         <>

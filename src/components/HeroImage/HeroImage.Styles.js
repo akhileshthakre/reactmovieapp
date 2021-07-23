@@ -8,8 +8,8 @@ export const Wrapper = styled.div`
       41%,rgba(0,0,0,0.65)
       100%
     ),
-    url('${props.image}'), var(--darkGrey)`};
-  background-size: 100%, cover;
+  url('${props.image}'), var(--darkGrey)`};
+  background-size: 50%, cover;
   background-position: center;
   height: 600px;
   position: relative;
@@ -32,7 +32,7 @@ export const Content = styled.div`
 
 export const Text = styled.div`
   z-index: 100;
-  max-width: 700px;
+  max-width: 600px;
   position: absolute;
   bottom: 40px;
   margin-right: 20px;

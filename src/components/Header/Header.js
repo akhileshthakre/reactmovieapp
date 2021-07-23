@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
-import RMDBLogo from '../../images/react-movie-logo.svg';
-import TMDBLogo from '../../images/tmdb_logo.svg';
+import RMDBLogo from '../../images/react-movie-image.png';
+import TMDBLogo from '../../images/tmdb-db-image.png';
 import { Wrapper,Content,LogoImg,TMDBLogoImg } from './Header.Styles';
 
 
